@@ -1,0 +1,5 @@
+Es una librería que se puede implementar en cualquier entorno.
+
+Zero config
+Isolated
+Great API

@@ -1,0 +1,17 @@
+{
+  "name": "modulo-1---intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "__comment": "nos hace un informe muy bonito, tanto por consola, como en una carpeta coverage",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
